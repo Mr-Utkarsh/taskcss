@@ -1,0 +1,7 @@
+.wrapper{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    box-shadow: 3px 4px 12px 6px rgb(208, 132, 33);
+    border-top-left-radius: 60px;
+}
